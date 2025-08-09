@@ -10,7 +10,7 @@ import Navbar from "./components/NavbarItem.vue";
       <Navbar msg="Hello World" />
     </header>
 
-    <main class="flex-1">
+    <main class="flex-1 items-center">
       <TheWelcome msg="Muh. Zulhaji" />
     </main>
   </div>
